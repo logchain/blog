@@ -1,7 +1,7 @@
 ---
 layout: author
 photo: /assets/img/uploads/profile.png
-name: Hüseyin Kaya
+name: kaya
 display_name: Hüseyin Kaya
 position: Chief Editor
 bio: Just a developer.
