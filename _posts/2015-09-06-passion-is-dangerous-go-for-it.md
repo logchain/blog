@@ -8,9 +8,9 @@ image: /assets/img/uploads/themanfromearth.jpg
 optimized_image: /assets/img/uploads/themanfromearth.jpg
 category: film
 tags:
-  - work
+  - film
   - career
-author: thiagorossener
+author: kaya
 ---
 
 Cas sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. *Aenean eu leo quam.* Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
