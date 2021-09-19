@@ -17,7 +17,7 @@ author: kaya
 Tüm sevdikleriniz yaşlanıp ölürken, tek amacınızın devam etmek olduğunu bir düşünün. Kulağa bencilce geliyor değil mi?
 
 Mesleğine kutsaliyet katmak ya da daha da özel kılmak için defalarca duyduğumuz bir olay vardır. Ünlü oyuncu, babasını kaybettiği günün akşamında
-sahneye çıkar ve şovun devam etmesi gerektiğine dair anektodlar ortaya atılır. Peki bu oyuncuya saygı mı duyulmalı, bencilliğini yüzüne vurarak
+sahneye çıkar ve şovun devam etmesi gerektiğine dair anektodlar ortaya atılır. Peki bu oyuncuya saygı mı duymalı, bencilliğini yüzüne vurarak
 dehşet verici ifadeler mi takınmalıyız?
 
 Gün içerisinde başımıza birden çok olay gelir. Ders kovalarız ya da kaçan bir otobüsün arkasından söveriz. Yeni doğan bir bebeği şaşkınlık ve hayretle kucağımıza alırken, bir yerlerde cenazelere katılırız. Peki ölümün bizim de içinde bulunduğumuz bir kümeyi kapsayacağı neden hiç aklımıza gelmez. Ölüme karşı bir duruş sergilediğimiz için mi yoksa gözlerimizi bu gerçekten korkuyla kaçırdığımız için mi?
