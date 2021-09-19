@@ -2,7 +2,7 @@
 date: 2021-09-19 03:11:40
 layout: post
 title: The Man from Earth
-subtitle: Dostlarınızla sohbet ederken, aranızda bir "mağara adami" olabilme ihtimalini aklınızdan çıkarmayın.
+subtitle: Dostlarınızla sohbet ederken, aranızda bir "mağara adamı" olabilme ihtimalini aklınızdan çıkarmayın.
 description: Çok da uzun olmayan, sohbet tadında tek mekan film sevenler buraya!
 image: /assets/img/post/themanfromearth.jpg
 optimized_image: /assets/img/post/themanfromearth.jpg
