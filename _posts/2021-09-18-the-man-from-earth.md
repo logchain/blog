@@ -5,7 +5,7 @@ title: The Man from Earth
 subtitle: Dostlarınızla sohbet ederken, aranızda bir "mağara adamı" olabilme ihtimalini aklınızdan çıkarmayın.
 description: Çok da uzun olmayan, sohbet tadında tek mekan film sevenler buraya!
 image: /assets/img/uploads/themanfromearth.jpg
-optimized_image: /assets/img/uploads/themanfromearth.jpg
+optimized_image: /assets/img/uploads/themanfromearth-opt.jpg
 category: film
 tags:
   - film
