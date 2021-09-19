@@ -1,5 +1,5 @@
 ---
-date: 2021-09-19 03:40:00
+date: 2021-09-18 03:40:00
 layout: post
 title: The Man from Earth
 subtitle: Dostlarınızla sohbet ederken, aranızda bir "mağara adamı" olabilme ihtimalini aklınızdan çıkarmayın.
