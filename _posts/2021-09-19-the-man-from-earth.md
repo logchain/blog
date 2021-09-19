@@ -4,9 +4,9 @@ layout: post
 title: The Man from Earth
 subtitle: Dostlarınızla sohbet ederken, aranızda bir "mağara adamı" olabilme ihtimalini aklınızdan çıkarmayın.
 description: Çok da uzun olmayan, sohbet tadında tek mekan film sevenler buraya!
-image: https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559825288/theme17_nlndhx.jpg
-optimized_image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559825288/theme17_nlndhx.jpg
-category: work
+image: /assets/img/uploads/themanfromearth.jpg
+optimized_image: /assets/img/uploads/themanfromearth.jpg
+category: film
 tags:
   - advice
   - film
