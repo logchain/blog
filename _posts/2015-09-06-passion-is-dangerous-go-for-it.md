@@ -6,7 +6,7 @@ subtitle: Lorem ipsum muspi dolor sit amet, consectetur adipisicing elit.
 description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 image: /assets/img/uploads/themanfromearth.jpg
 optimized_image: /assets/img/uploads/themanfromearth.jpg
-category: work
+category: film
 tags:
   - work
   - career
