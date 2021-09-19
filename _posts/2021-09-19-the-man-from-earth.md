@@ -6,7 +6,7 @@ subtitle: Dostlarınızla sohbet ederken, aranızda bir "mağara adamı" olabilm
 description: Çok da uzun olmayan, sohbet tadında tek mekan film sevenler buraya!
 image: https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559825288/theme17_nlndhx.jpg
 optimized_image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559825288/theme17_nlndhx.jpg
-category: film
+category: work
 tags:
   - advice
   - film
